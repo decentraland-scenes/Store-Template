@@ -13,7 +13,7 @@
 	},
 	"devDependencies": {
 		"@dcl/eslint-config": "^1.0.1",
-		"decentraland-ecs": "^6.11.0"
+		"decentraland-ecs": "^6.6.1-20201020183014.commit-bdc29ef-hotfix"
 	},
 	"engines": {
 		"node": ">=14.0.0",
